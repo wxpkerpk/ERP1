@@ -1,0 +1,1044 @@
+2015-11-27 03:02:03 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 03:02:03 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 03:02:03 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 03:02:03 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 03:02:49 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 03:02:49 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 03:02:49 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 03:02:49 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 03:03:19 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 03:03:19 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 03:03:19 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 03:03:19 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 03:57:13 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 03:57:13 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 03:57:13 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 03:57:13 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:02:32 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:02:32 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:02:32 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:02:32 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:03:08 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:03:08 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:03:08 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:03:08 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:03:36 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:03:36 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:03:36 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:03:36 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:03:58 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:03:58 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:03:58 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:03:58 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:04:15 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:04:15 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:04:15 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:04:15 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:04:34 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:04:34 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:04:34 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:04:34 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:26:29 ERROR (ContextLoader.java:331) | Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.guotion.material.service.service.UserSerivice com.guotion.material.web.controller.UserController.userSerivice; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.guotion.material.service.dao.UserDAO com.guotion.material.service.service.impl.UserServiceImpl.userDAO; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.guotion.material.service.dao.UserDAO] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1202)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4738)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5181)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:725)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:701)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:717)
+	at org.apache.catalina.startup.HostConfig.manageApp(HostConfig.java:1678)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:300)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:819)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+	at org.apache.catalina.mbeans.MBeanFactory.createStandardContext(MBeanFactory.java:463)
+	at org.apache.catalina.mbeans.MBeanFactory.createStandardContext(MBeanFactory.java:413)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:300)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:819)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+	at javax.management.remote.rmi.RMIConnectionImpl.doOperation(RMIConnectionImpl.java:1466)
+	at javax.management.remote.rmi.RMIConnectionImpl.access$300(RMIConnectionImpl.java:76)
+	at javax.management.remote.rmi.RMIConnectionImpl$PrivilegedOperation.run(RMIConnectionImpl.java:1307)
+	at javax.management.remote.rmi.RMIConnectionImpl.doPrivilegedOperation(RMIConnectionImpl.java:1399)
+	at javax.management.remote.rmi.RMIConnectionImpl.invoke(RMIConnectionImpl.java:828)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:323)
+	at sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:568)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:826)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$254(TCPTransport.java:683)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler$$Lambda$1/1934723782.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:682)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.guotion.material.service.service.UserSerivice com.guotion.material.web.controller.UserController.userSerivice; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.guotion.material.service.dao.UserDAO com.guotion.material.service.service.impl.UserServiceImpl.userDAO; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.guotion.material.service.dao.UserDAO] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:558)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:87)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	... 59 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.guotion.material.service.dao.UserDAO com.guotion.material.service.service.impl.UserServiceImpl.userDAO; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.guotion.material.service.dao.UserDAO] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1202)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1127)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1051)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:949)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:530)
+	... 61 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.guotion.material.service.dao.UserDAO com.guotion.material.service.service.impl.UserServiceImpl.userDAO; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.guotion.material.service.dao.UserDAO] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:558)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:87)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	... 72 more
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.guotion.material.service.dao.UserDAO] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoSuchBeanDefinitionException(DefaultListableBeanFactory.java:1308)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1054)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:949)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:530)
+	... 74 more
+2015-11-27 04:27:41 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:27:41 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:27:41 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:27:41 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:30:22 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:30:22 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:30:22 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:30:22 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:30:47 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:30:47 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:30:47 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:30:47 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:30:58 ERROR (ExceptionHandler.java:40) | ---------------------SPLIT LINE---------------------------
+2015-11-27 04:30:58 ERROR (ExceptionHandler.java:41) | request uri :/ERP/user.do/getAllArea.do
+2015-11-27 04:30:58 ERROR (ExceptionHandler.java:42) | request params :{}
+2015-11-27 04:30:58 ERROR (ExceptionHandler.java:43) | err message :org.apache.catalina.connector.ClientAbortException: java.io.IOException: Broken pipe
+	at org.apache.catalina.connector.OutputBuffer.realWriteBytes(OutputBuffer.java:393)
+	at org.apache.tomcat.util.buf.ByteChunk.append(ByteChunk.java:315)
+	at org.apache.catalina.connector.OutputBuffer.writeBytes(OutputBuffer.java:418)
+	at org.apache.catalina.connector.OutputBuffer.write(OutputBuffer.java:406)
+	at org.apache.catalina.connector.CoyoteOutputStream.write(CoyoteOutputStream.java:97)
+	at sun.nio.cs.StreamEncoder.writeBytes(StreamEncoder.java:221)
+	at sun.nio.cs.StreamEncoder.implWrite(StreamEncoder.java:282)
+	at sun.nio.cs.StreamEncoder.write(StreamEncoder.java:125)
+	at sun.nio.cs.StreamEncoder.write(StreamEncoder.java:135)
+	at java.io.OutputStreamWriter.write(OutputStreamWriter.java:220)
+	at java.io.Writer.write(Writer.java:157)
+	at org.springframework.util.StreamUtils.copy(StreamUtils.java:105)
+	at org.springframework.http.converter.StringHttpMessageConverter.writeInternal(StringHttpMessageConverter.java:109)
+	at org.springframework.http.converter.StringHttpMessageConverter.writeInternal(StringHttpMessageConverter.java:40)
+	at org.springframework.http.converter.AbstractHttpMessageConverter.write(AbstractHttpMessageConverter.java:208)
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:161)
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:101)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.handleReturnValue(RequestResponseBodyMethodProcessor.java:202)
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:71)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:126)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandleMethod(RequestMappingHandlerAdapter.java:777)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:706)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:877)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:966)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:857)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:842)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:291)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:616)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:518)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1091)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:673)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1500)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1456)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.io.IOException: Broken pipe
+	at sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:471)
+	at org.apache.tomcat.util.net.NioChannel.write(NioChannel.java:124)
+	at org.apache.tomcat.util.net.NioBlockingSelector.write(NioBlockingSelector.java:101)
+	at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:172)
+	at org.apache.coyote.http11.InternalNioOutputBuffer.writeToSocket(InternalNioOutputBuffer.java:139)
+	at org.apache.coyote.http11.InternalNioOutputBuffer.addToBB(InternalNioOutputBuffer.java:197)
+	at org.apache.coyote.http11.InternalNioOutputBuffer.access$000(InternalNioOutputBuffer.java:41)
+	at org.apache.coyote.http11.InternalNioOutputBuffer$SocketOutputBuffer.doWrite(InternalNioOutputBuffer.java:320)
+	at org.apache.coyote.http11.filters.IdentityOutputFilter.doWrite(IdentityOutputFilter.java:84)
+	at org.apache.coyote.http11.AbstractOutputBuffer.doWrite(AbstractOutputBuffer.java:256)
+	at org.apache.coyote.Response.doWrite(Response.java:501)
+	at org.apache.catalina.connector.OutputBuffer.realWriteBytes(OutputBuffer.java:388)
+	... 50 more
+
+2015-11-27 04:30:59 ERROR (ExceptionHandler.java:40) | ---------------------SPLIT LINE---------------------------
+2015-11-27 04:30:59 ERROR (ExceptionHandler.java:41) | request uri :/ERP/user.do/getAllArea.do
+2015-11-27 04:30:59 ERROR (ExceptionHandler.java:42) | request params :{}
+2015-11-27 04:30:59 ERROR (ExceptionHandler.java:43) | err message :org.apache.catalina.connector.ClientAbortException: java.io.IOException: Broken pipe
+	at org.apache.catalina.connector.OutputBuffer.realWriteBytes(OutputBuffer.java:393)
+	at org.apache.tomcat.util.buf.ByteChunk.append(ByteChunk.java:315)
+	at org.apache.catalina.connector.OutputBuffer.writeBytes(OutputBuffer.java:418)
+	at org.apache.catalina.connector.OutputBuffer.write(OutputBuffer.java:406)
+	at org.apache.catalina.connector.CoyoteOutputStream.write(CoyoteOutputStream.java:97)
+	at sun.nio.cs.StreamEncoder.writeBytes(StreamEncoder.java:221)
+	at sun.nio.cs.StreamEncoder.implWrite(StreamEncoder.java:282)
+	at sun.nio.cs.StreamEncoder.write(StreamEncoder.java:125)
+	at sun.nio.cs.StreamEncoder.write(StreamEncoder.java:135)
+	at java.io.OutputStreamWriter.write(OutputStreamWriter.java:220)
+	at java.io.Writer.write(Writer.java:157)
+	at org.springframework.util.StreamUtils.copy(StreamUtils.java:105)
+	at org.springframework.http.converter.StringHttpMessageConverter.writeInternal(StringHttpMessageConverter.java:109)
+	at org.springframework.http.converter.StringHttpMessageConverter.writeInternal(StringHttpMessageConverter.java:40)
+	at org.springframework.http.converter.AbstractHttpMessageConverter.write(AbstractHttpMessageConverter.java:208)
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:161)
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:101)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.handleReturnValue(RequestResponseBodyMethodProcessor.java:202)
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:71)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:126)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandleMethod(RequestMappingHandlerAdapter.java:777)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:706)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:877)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:966)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:857)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:842)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:291)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:616)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:518)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1091)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:673)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1500)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1456)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.io.IOException: Broken pipe
+	at sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:471)
+	at org.apache.tomcat.util.net.NioChannel.write(NioChannel.java:124)
+	at org.apache.tomcat.util.net.NioBlockingSelector.write(NioBlockingSelector.java:101)
+	at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:172)
+	at org.apache.coyote.http11.InternalNioOutputBuffer.writeToSocket(InternalNioOutputBuffer.java:139)
+	at org.apache.coyote.http11.InternalNioOutputBuffer.addToBB(InternalNioOutputBuffer.java:197)
+	at org.apache.coyote.http11.InternalNioOutputBuffer.access$000(InternalNioOutputBuffer.java:41)
+	at org.apache.coyote.http11.InternalNioOutputBuffer$SocketOutputBuffer.doWrite(InternalNioOutputBuffer.java:320)
+	at org.apache.coyote.http11.filters.IdentityOutputFilter.doWrite(IdentityOutputFilter.java:84)
+	at org.apache.coyote.http11.AbstractOutputBuffer.doWrite(AbstractOutputBuffer.java:256)
+	at org.apache.coyote.Response.doWrite(Response.java:501)
+	at org.apache.catalina.connector.OutputBuffer.realWriteBytes(OutputBuffer.java:388)
+	... 50 more
+
+2015-11-27 04:31:00 ERROR (ExceptionHandler.java:40) | ---------------------SPLIT LINE---------------------------
+2015-11-27 04:31:00 ERROR (ExceptionHandler.java:41) | request uri :/ERP/user.do/getAllArea.do
+2015-11-27 04:31:00 ERROR (ExceptionHandler.java:42) | request params :{}
+2015-11-27 04:31:00 ERROR (ExceptionHandler.java:43) | err message :org.apache.catalina.connector.ClientAbortException: java.io.IOException: Broken pipe
+	at org.apache.catalina.connector.OutputBuffer.realWriteBytes(OutputBuffer.java:393)
+	at org.apache.tomcat.util.buf.ByteChunk.append(ByteChunk.java:315)
+	at org.apache.catalina.connector.OutputBuffer.writeBytes(OutputBuffer.java:418)
+	at org.apache.catalina.connector.OutputBuffer.write(OutputBuffer.java:406)
+	at org.apache.catalina.connector.CoyoteOutputStream.write(CoyoteOutputStream.java:97)
+	at sun.nio.cs.StreamEncoder.writeBytes(StreamEncoder.java:221)
+	at sun.nio.cs.StreamEncoder.implWrite(StreamEncoder.java:282)
+	at sun.nio.cs.StreamEncoder.write(StreamEncoder.java:125)
+	at sun.nio.cs.StreamEncoder.write(StreamEncoder.java:135)
+	at java.io.OutputStreamWriter.write(OutputStreamWriter.java:220)
+	at java.io.Writer.write(Writer.java:157)
+	at org.springframework.util.StreamUtils.copy(StreamUtils.java:105)
+	at org.springframework.http.converter.StringHttpMessageConverter.writeInternal(StringHttpMessageConverter.java:109)
+	at org.springframework.http.converter.StringHttpMessageConverter.writeInternal(StringHttpMessageConverter.java:40)
+	at org.springframework.http.converter.AbstractHttpMessageConverter.write(AbstractHttpMessageConverter.java:208)
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:161)
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:101)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.handleReturnValue(RequestResponseBodyMethodProcessor.java:202)
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:71)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:126)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandleMethod(RequestMappingHandlerAdapter.java:777)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:706)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:877)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:966)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:857)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:842)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:291)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:616)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:518)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1091)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:673)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1500)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1456)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.io.IOException: Broken pipe
+	at sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:471)
+	at org.apache.tomcat.util.net.NioChannel.write(NioChannel.java:124)
+	at org.apache.tomcat.util.net.NioBlockingSelector.write(NioBlockingSelector.java:101)
+	at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:172)
+	at org.apache.coyote.http11.InternalNioOutputBuffer.writeToSocket(InternalNioOutputBuffer.java:139)
+	at org.apache.coyote.http11.InternalNioOutputBuffer.addToBB(InternalNioOutputBuffer.java:197)
+	at org.apache.coyote.http11.InternalNioOutputBuffer.access$000(InternalNioOutputBuffer.java:41)
+	at org.apache.coyote.http11.InternalNioOutputBuffer$SocketOutputBuffer.doWrite(InternalNioOutputBuffer.java:320)
+	at org.apache.coyote.http11.filters.IdentityOutputFilter.doWrite(IdentityOutputFilter.java:84)
+	at org.apache.coyote.http11.AbstractOutputBuffer.doWrite(AbstractOutputBuffer.java:256)
+	at org.apache.coyote.Response.doWrite(Response.java:501)
+	at org.apache.catalina.connector.OutputBuffer.realWriteBytes(OutputBuffer.java:388)
+	... 50 more
+
+2015-11-27 04:38:12 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:38:12 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:38:12 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:38:12 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:41:49 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:41:49 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:41:49 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:41:49 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:42:26 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:42:26 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:42:26 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:42:26 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:43:40 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:43:40 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:43:40 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:43:40 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:44:55 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:44:55 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:44:55 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:44:55 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:45:36 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:45:36 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:45:36 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:45:36 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:52:20 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:52:20 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:52:20 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:52:20 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:54:13 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:54:13 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:54:13 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:54:13 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:54:21 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:54:21 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:54:21 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:54:21 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:54:29 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:54:29 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:54:29 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:54:29 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:56:00 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 04:56:00 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 04:56:00 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 04:56:00 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:01:06 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 05:01:06 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:01:06 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 05:01:06 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:22:11 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 05:22:11 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:22:11 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 05:22:11 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:23:28 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 05:23:28 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:23:28 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 05:23:28 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:26:28 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 05:26:28 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:26:28 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 05:26:28 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:26:40 ERROR (ExceptionHandler.java:40) | ---------------------SPLIT LINE---------------------------
+2015-11-27 05:26:40 ERROR (ExceptionHandler.java:41) | request uri :/ERP/user.do/getAllArea.do
+2015-11-27 05:26:40 ERROR (ExceptionHandler.java:42) | request params :{}
+2015-11-27 05:26:40 ERROR (ExceptionHandler.java:43) | err message :org.apache.catalina.connector.ClientAbortException: java.io.IOException: Broken pipe
+	at org.apache.catalina.connector.OutputBuffer.realWriteBytes(OutputBuffer.java:393)
+	at org.apache.tomcat.util.buf.ByteChunk.append(ByteChunk.java:315)
+	at org.apache.catalina.connector.OutputBuffer.writeBytes(OutputBuffer.java:418)
+	at org.apache.catalina.connector.OutputBuffer.write(OutputBuffer.java:406)
+	at org.apache.catalina.connector.CoyoteOutputStream.write(CoyoteOutputStream.java:97)
+	at sun.nio.cs.StreamEncoder.writeBytes(StreamEncoder.java:221)
+	at sun.nio.cs.StreamEncoder.implWrite(StreamEncoder.java:282)
+	at sun.nio.cs.StreamEncoder.write(StreamEncoder.java:125)
+	at sun.nio.cs.StreamEncoder.write(StreamEncoder.java:135)
+	at java.io.OutputStreamWriter.write(OutputStreamWriter.java:220)
+	at java.io.Writer.write(Writer.java:157)
+	at org.springframework.util.StreamUtils.copy(StreamUtils.java:105)
+	at org.springframework.http.converter.StringHttpMessageConverter.writeInternal(StringHttpMessageConverter.java:109)
+	at org.springframework.http.converter.StringHttpMessageConverter.writeInternal(StringHttpMessageConverter.java:40)
+	at org.springframework.http.converter.AbstractHttpMessageConverter.write(AbstractHttpMessageConverter.java:208)
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:161)
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:101)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.handleReturnValue(RequestResponseBodyMethodProcessor.java:202)
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:71)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:126)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandleMethod(RequestMappingHandlerAdapter.java:777)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:706)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:877)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:966)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:857)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:842)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:291)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:616)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:518)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1091)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:673)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1500)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1456)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.io.IOException: Broken pipe
+	at sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:471)
+	at org.apache.tomcat.util.net.NioChannel.write(NioChannel.java:124)
+	at org.apache.tomcat.util.net.NioBlockingSelector.write(NioBlockingSelector.java:101)
+	at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:172)
+	at org.apache.coyote.http11.InternalNioOutputBuffer.writeToSocket(InternalNioOutputBuffer.java:139)
+	at org.apache.coyote.http11.InternalNioOutputBuffer.addToBB(InternalNioOutputBuffer.java:197)
+	at org.apache.coyote.http11.InternalNioOutputBuffer.access$000(InternalNioOutputBuffer.java:41)
+	at org.apache.coyote.http11.InternalNioOutputBuffer$SocketOutputBuffer.doWrite(InternalNioOutputBuffer.java:320)
+	at org.apache.coyote.http11.filters.IdentityOutputFilter.doWrite(IdentityOutputFilter.java:84)
+	at org.apache.coyote.http11.AbstractOutputBuffer.doWrite(AbstractOutputBuffer.java:256)
+	at org.apache.coyote.Response.doWrite(Response.java:501)
+	at org.apache.catalina.connector.OutputBuffer.realWriteBytes(OutputBuffer.java:388)
+	... 50 more
+
+2015-11-27 05:27:46 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 05:27:46 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:27:46 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 05:27:46 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:29:07 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 05:29:07 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:29:07 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 05:29:07 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:34:58 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 05:34:58 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:34:58 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 05:34:58 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:37:28 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 05:37:28 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:37:28 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 05:37:28 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:38:24 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 05:38:24 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:38:24 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 05:38:24 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:38:56 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 05:38:56 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:38:56 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 05:38:56 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:40:40 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 05:40:40 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:40:40 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 05:40:40 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:43:51 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 05:43:51 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:43:51 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 05:43:51 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:50:54 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 05:50:54 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:50:54 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 05:50:54 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:52:02 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 05:52:02 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:52:02 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 05:52:02 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:55:21 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 05:55:21 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 05:55:21 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 05:55:21 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 20:43:19 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 20:43:19 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 20:43:19 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 20:43:19 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 20:49:51 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 20:49:51 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 20:49:51 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 20:49:51 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 20:51:12 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 20:51:12 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 20:51:12 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 20:51:12 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 20:52:56 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 20:52:56 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 20:52:56 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 20:52:56 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 20:54:35 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 20:54:35 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 20:54:35 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 20:54:35 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 20:57:37 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 20:57:37 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 20:57:37 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 20:57:37 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 20:58:26 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 20:58:26 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 20:58:26 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 20:58:26 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 21:00:34 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 21:00:34 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 21:00:34 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 21:00:34 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 21:01:28 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 21:01:28 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 21:01:28 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 21:01:28 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 21:06:35 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 21:06:35 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 21:06:35 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 21:06:35 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 21:06:35 ERROR (ContextLoader.java:331) | Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.guotion.material.service.service.UserSerivice com.guotion.material.web.controller.UserController.userSerivice; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl' defined in URL [jar:file:/code/ERP/Web/target/material-web-1.0-SNAPSHOT/WEB-INF/lib/material-service-1.0-SNAPSHOT.jar!/com/guotion/material/service/service/impl/UserServiceImpl.class]: Initialization of bean failed; nested exception is java.lang.IllegalStateException: No cache names could be detected on 'public java.lang.String com.guotion.material.service.service.impl.UserServiceImpl.getAllArea()'. Make sure to set the value parameter on the annotation or declare a @CacheConfig at the class-level with the default cache name(s) to use.
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1202)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:403)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4738)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5181)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:725)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:701)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:717)
+	at org.apache.catalina.startup.HostConfig.manageApp(HostConfig.java:1678)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:300)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:819)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+	at org.apache.catalina.mbeans.MBeanFactory.createStandardContext(MBeanFactory.java:463)
+	at org.apache.catalina.mbeans.MBeanFactory.createStandardContext(MBeanFactory.java:413)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:300)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:819)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+	at javax.management.remote.rmi.RMIConnectionImpl.doOperation(RMIConnectionImpl.java:1466)
+	at javax.management.remote.rmi.RMIConnectionImpl.access$300(RMIConnectionImpl.java:76)
+	at javax.management.remote.rmi.RMIConnectionImpl$PrivilegedOperation.run(RMIConnectionImpl.java:1307)
+	at javax.management.remote.rmi.RMIConnectionImpl.doPrivilegedOperation(RMIConnectionImpl.java:1399)
+	at javax.management.remote.rmi.RMIConnectionImpl.invoke(RMIConnectionImpl.java:828)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:323)
+	at sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:568)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:826)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$254(TCPTransport.java:683)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler$$Lambda$1/1713211999.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:682)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.guotion.material.service.service.UserSerivice com.guotion.material.web.controller.UserController.userSerivice; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl' defined in URL [jar:file:/code/ERP/Web/target/material-web-1.0-SNAPSHOT/WEB-INF/lib/material-service-1.0-SNAPSHOT.jar!/com/guotion/material/service/service/impl/UserServiceImpl.class]: Initialization of bean failed; nested exception is java.lang.IllegalStateException: No cache names could be detected on 'public java.lang.String com.guotion.material.service.service.impl.UserServiceImpl.getAllArea()'. Make sure to set the value parameter on the annotation or declare a @CacheConfig at the class-level with the default cache name(s) to use.
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:558)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:87)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	... 59 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl' defined in URL [jar:file:/code/ERP/Web/target/material-web-1.0-SNAPSHOT/WEB-INF/lib/material-service-1.0-SNAPSHOT.jar!/com/guotion/material/service/service/impl/UserServiceImpl.class]: Initialization of bean failed; nested exception is java.lang.IllegalStateException: No cache names could be detected on 'public java.lang.String com.guotion.material.service.service.impl.UserServiceImpl.getAllArea()'. Make sure to set the value parameter on the annotation or declare a @CacheConfig at the class-level with the default cache name(s) to use.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:547)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:298)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:193)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1127)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1051)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:949)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:530)
+	... 61 more
+Caused by: java.lang.IllegalStateException: No cache names could be detected on 'public java.lang.String com.guotion.material.service.service.impl.UserServiceImpl.getAllArea()'. Make sure to set the value parameter on the annotation or declare a @CacheConfig at the class-level with the default cache name(s) to use.
+	at org.springframework.cache.annotation.SpringCacheAnnotationParser.validateCacheOperation(SpringCacheAnnotationParser.java:240)
+	at org.springframework.cache.annotation.SpringCacheAnnotationParser.parseCacheableAnnotation(SpringCacheAnnotationParser.java:112)
+	at org.springframework.cache.annotation.SpringCacheAnnotationParser.parseCacheAnnotations(SpringCacheAnnotationParser.java:67)
+	at org.springframework.cache.annotation.SpringCacheAnnotationParser.parseCacheAnnotations(SpringCacheAnnotationParser.java:57)
+	at org.springframework.cache.annotation.AnnotationCacheOperationSource$2.getCacheOperations(AnnotationCacheOperationSource.java:124)
+	at org.springframework.cache.annotation.AnnotationCacheOperationSource.determineCacheOperations(AnnotationCacheOperationSource.java:142)
+	at org.springframework.cache.annotation.AnnotationCacheOperationSource.findCacheOperations(AnnotationCacheOperationSource.java:121)
+	at org.springframework.cache.interceptor.AbstractFallbackCacheOperationSource.computeCacheOperations(AbstractFallbackCacheOperationSource.java:140)
+	at org.springframework.cache.interceptor.AbstractFallbackCacheOperationSource.getCacheOperations(AbstractFallbackCacheOperationSource.java:100)
+	at org.springframework.cache.interceptor.CacheOperationSourcePointcut.matches(CacheOperationSourcePointcut.java:39)
+	at org.springframework.aop.support.AopUtils.canApply(AopUtils.java:225)
+	at org.springframework.aop.support.AopUtils.canApply(AopUtils.java:262)
+	at org.springframework.aop.support.AopUtils.findAdvisorsThatCanApply(AopUtils.java:294)
+	at org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator.findAdvisorsThatCanApply(AbstractAdvisorAutoProxyCreator.java:118)
+	at org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator.findEligibleAdvisors(AbstractAdvisorAutoProxyCreator.java:88)
+	at org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator.getAdvicesAndAdvisorsForBean(AbstractAdvisorAutoProxyCreator.java:69)
+	at org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator.wrapIfNecessary(AbstractAutoProxyCreator.java:330)
+	at org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator.postProcessAfterInitialization(AbstractAutoProxyCreator.java:293)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsAfterInitialization(AbstractAutowireCapableBeanFactory.java:422)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1571)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:539)
+	... 70 more
+2015-11-27 21:09:15 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 21:09:15 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 21:09:15 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 21:09:15 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 21:41:22 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 21:41:22 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 21:41:22 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 21:41:22 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 21:41:44 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 21:41:44 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 21:41:44 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 21:41:44 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 21:42:19 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 21:42:19 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 21:42:19 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 21:42:19 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 21:48:30 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 21:48:30 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 21:48:30 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 21:48:30 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 23:58:37 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_premises add constraint FK_s69h4jlm867anhfs7acvvnlhj foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 23:58:37 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 23:58:37 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 23:58:37 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 23:58:37 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 23:58:37 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 23:59:01 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_premises add constraint FK_s69h4jlm867anhfs7acvvnlhj foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 23:59:01 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 23:59:01 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 23:59:01 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 23:59:01 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 23:59:01 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 23:59:59 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_premises add constraint FK_s69h4jlm867anhfs7acvvnlhj foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 23:59:59 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 23:59:59 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-27 23:59:59 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-27 23:59:59 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-27 23:59:59 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 00:00:25 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_premises add constraint FK_s69h4jlm867anhfs7acvvnlhj foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 00:00:25 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 00:00:25 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-28 00:00:25 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 00:00:25 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 00:00:25 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 00:02:46 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_premises add constraint FK_s69h4jlm867anhfs7acvvnlhj foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 00:02:46 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 00:02:46 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-28 00:02:46 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 00:02:46 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 00:02:46 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 00:09:41 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_premises add constraint FK_s69h4jlm867anhfs7acvvnlhj foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 00:09:41 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 00:09:41 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-28 00:09:41 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 00:09:41 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 00:09:41 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 01:48:10 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_premises add constraint FK_s69h4jlm867anhfs7acvvnlhj foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 01:48:10 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 01:48:10 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-28 01:48:10 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 01:48:10 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 01:48:10 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 01:54:31 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_premises add constraint FK_s69h4jlm867anhfs7acvvnlhj foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 01:54:31 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 01:54:31 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-28 01:54:31 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 01:54:31 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 01:54:31 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 02:00:09 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_premises add constraint FK_s69h4jlm867anhfs7acvvnlhj foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 02:00:09 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 02:00:09 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-28 02:00:09 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 02:00:09 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 02:00:09 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 02:01:04 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_premises add constraint FK_s69h4jlm867anhfs7acvvnlhj foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 02:01:04 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 02:01:04 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-28 02:01:04 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 02:01:04 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 02:01:04 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 02:15:23 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_premises add constraint FK_s69h4jlm867anhfs7acvvnlhj foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 02:15:23 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 02:15:23 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-28 02:15:23 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 02:15:23 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 02:15:23 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 02:16:27 ERROR (ExceptionHandler.java:40) | ---------------------SPLIT LINE---------------------------
+2015-11-28 02:16:27 ERROR (ExceptionHandler.java:41) | request uri :/ERP/premises.do/add.do
+2015-11-28 02:16:27 ERROR (ExceptionHandler.java:42) | request params :{address[]=[Ljava.lang.String;@6369e7ca, name=[Ljava.lang.String;@6dae05d7}
+2015-11-28 02:16:27 ERROR (ExceptionHandler.java:43) | err message :java.lang.NumberFormatException: null
+	at java.lang.Integer.parseInt(Integer.java:542)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.guotion.material.web.controller.PremisesController.addPremises(PremisesController.java:39)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:221)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:137)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:110)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandleMethod(RequestMappingHandlerAdapter.java:777)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:706)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:877)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:966)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:868)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:842)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:291)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:616)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:518)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1091)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:673)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1500)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1456)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-11-28 02:17:30 ERROR (ExceptionHandler.java:40) | ---------------------SPLIT LINE---------------------------
+2015-11-28 02:17:30 ERROR (ExceptionHandler.java:41) | request uri :/ERP/premises.do/add.do
+2015-11-28 02:17:30 ERROR (ExceptionHandler.java:42) | request params :{address[]=[Ljava.lang.String;@789a0159, name=[Ljava.lang.String;@765df03a}
+2015-11-28 02:17:30 ERROR (ExceptionHandler.java:43) | err message :java.lang.NumberFormatException: null
+	at java.lang.Integer.parseInt(Integer.java:542)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.guotion.material.web.controller.PremisesController.addPremises(PremisesController.java:39)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:221)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:137)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:110)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandleMethod(RequestMappingHandlerAdapter.java:777)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:706)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:877)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:966)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:868)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:842)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:291)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:616)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:518)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1091)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:673)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1500)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1456)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-11-28 02:20:46 ERROR (ExceptionHandler.java:40) | ---------------------SPLIT LINE---------------------------
+2015-11-28 02:20:46 ERROR (ExceptionHandler.java:41) | request uri :/ERP/premises.do/add.do
+2015-11-28 02:20:46 ERROR (ExceptionHandler.java:42) | request params :{address[]=[Ljava.lang.String;@2fd412cb, name=[Ljava.lang.String;@1d60f6a8}
+2015-11-28 02:20:46 ERROR (ExceptionHandler.java:43) | err message :java.lang.NumberFormatException: null
+	at java.lang.Integer.parseInt(Integer.java:542)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.guotion.material.web.controller.PremisesController.addPremises(PremisesController.java:39)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:221)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:137)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:110)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandleMethod(RequestMappingHandlerAdapter.java:777)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:706)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:877)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:966)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:868)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:842)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:291)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:616)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:518)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1091)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:673)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1500)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1456)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-11-28 02:21:35 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_premises add constraint FK_s69h4jlm867anhfs7acvvnlhj foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 02:21:35 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 02:21:35 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-28 02:21:35 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 02:21:35 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 02:21:35 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 02:30:03 ERROR (ExceptionHandler.java:40) | ---------------------SPLIT LINE---------------------------
+2015-11-28 02:30:03 ERROR (ExceptionHandler.java:41) | request uri :/ERP/premises.do/add.do
+2015-11-28 02:30:03 ERROR (ExceptionHandler.java:42) | request params :{address[]=[Ljava.lang.String;@21a5dc81, name[]=[Ljava.lang.String;@2f6236c5}
+2015-11-28 02:30:03 ERROR (ExceptionHandler.java:43) | err message :java.lang.NumberFormatException: null
+	at java.lang.Integer.parseInt(Integer.java:542)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.guotion.material.web.controller.PremisesController.addPremises(PremisesController.java:39)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:221)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:137)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:110)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandleMethod(RequestMappingHandlerAdapter.java:777)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:706)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:877)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:966)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:868)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:842)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:291)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:616)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:518)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1091)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:673)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1500)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1456)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-11-28 02:35:19 ERROR (ExceptionHandler.java:40) | ---------------------SPLIT LINE---------------------------
+2015-11-28 02:35:19 ERROR (ExceptionHandler.java:41) | request uri :/ERP/premises.do/add.do
+2015-11-28 02:35:19 ERROR (ExceptionHandler.java:42) | request params :{address[]=[Ljava.lang.String;@4ca6a5e3, name[]=[Ljava.lang.String;@489928af}
+2015-11-28 02:35:19 ERROR (ExceptionHandler.java:43) | err message :java.lang.NumberFormatException: null
+	at java.lang.Integer.parseInt(Integer.java:542)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.guotion.material.web.controller.PremisesController.addPremises(PremisesController.java:39)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:221)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:137)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:110)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandleMethod(RequestMappingHandlerAdapter.java:777)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:706)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:877)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:966)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:868)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:842)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:291)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:616)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:518)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1091)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:673)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1500)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1456)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+
+2015-11-28 02:40:12 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_premises add constraint FK_s69h4jlm867anhfs7acvvnlhj foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 02:40:12 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 02:40:12 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-28 02:40:12 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 02:40:12 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 02:40:12 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 02:42:49 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_premises add constraint FK_s69h4jlm867anhfs7acvvnlhj foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 02:42:49 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 02:42:49 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-28 02:42:49 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 02:42:49 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 02:42:49 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 03:00:22 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_premises add constraint FK_s69h4jlm867anhfs7acvvnlhj foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 03:00:22 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 03:00:22 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-28 03:00:22 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 03:00:22 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 03:00:22 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 03:05:02 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_premises add constraint FK_s69h4jlm867anhfs7acvvnlhj foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 03:05:02 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 03:05:02 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-28 03:05:02 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 03:05:02 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 03:05:02 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 03:11:45 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_premises add constraint FK_s69h4jlm867anhfs7acvvnlhj foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 03:11:45 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 03:11:45 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-28 03:11:45 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 03:11:45 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 03:11:45 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 03:32:40 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_premises add constraint FK_s69h4jlm867anhfs7acvvnlhj foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 03:32:40 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 03:32:40 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-28 03:32:40 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-28 03:32:40 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-28 03:32:40 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint

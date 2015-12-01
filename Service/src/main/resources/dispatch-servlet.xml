@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://www.springframework.org/schema/beans"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+        http://www.springframework.org/schema/mvc
+        http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd
+        http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+
+    <mvc:annotation-driven/>
+    <context:component-scan base-package="com.guotion.material.web.controller"/>
+
+    <bean id="localeResolver" class="org.springframework.web.servlet.i18n.FixedLocaleResolver">
+        <property name="defaultLocale" value="zh_CN"/>
+    </bean>
+
+    <!-- Resolves view names to protected .jsp resources within the /WEB-INF/jsp directory -->
+    <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <property name="viewClass" value="org.springframework.web.servlet.view.JstlView"/>
+        <property name="prefix" value="/jsp/"/>
+        <property name="suffix" value=".jsp"/>
+    </bean>
+
+    <!-- 支持上传文件 -->
+
+    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+        <property name="defaultEncoding" value="UTF-8"/>
+        <property name="maxUploadSize" value="2000000000"/>
+    </bean>
+
+    <!-- interceptor -->
+    <!--
+    <mvc:interceptors>
+        <mvc:interceptor>
+
+            <mvc:mapping path="/registerManager/*" />
+            <mvc:mapping path="/AccountController/*" />
+            <mvc:mapping path="/availableInfoSta/*" />
+            <mvc:mapping path="/blackHouseView/*" />
+            <mvc:mapping path="/blackListView/*" />
+            <mvc:mapping path="/carsSourceView/*" />
+            <mvc:mapping path="/customBlackListView/*" />
+            <mvc:mapping path="/DBController/*" />
+            <mvc:mapping path="/difTimeOnlineNumSta/*" />
+            <mvc:mapping path="/feedbackView/*" />
+            <mvc:mapping path="/goodsSourceView/*" />
+            <mvc:mapping path="/infoRelSta/*" />
+            <mvc:mapping path="/invitationSta/*" />
+            <mvc:mapping path="/judgeReport/*" />
+            <mvc:mapping path="/launchImgController/*" />
+            <mvc:mapping path="/loginPlaceSta/*" />
+            <mvc:mapping path="/managerController/*" />
+            <mvc:mapping path="/operationNoteView/*" />
+            <mvc:mapping path="/refereeView/*" />
+            <mvc:mapping path="/registerNumStatistics/*" />
+            <mvc:mapping path="/reportView/*" />
+            <mvc:mapping path="/sendSMSController/*" />
+            <mvc:mapping path="/settingView/*" />
+            <mvc:mapping path="/notificationView/*" />
+            <mvc:mapping path="/timeLengthSta/*" />
+            <mvc:mapping path="/totalSta/*" />
+            <mvc:mapping path="/unAvailableInfoSta/*" />
+            <mvc:mapping path="/userInfo/*" />
+            <mvc:mapping path="/xlsController/*" />
+            <bean class="com.guotion.carsplatform.backstage.interceptor.GXInterceptor" />
+        </mvc:interceptor>
+    </mvc:interceptors>
+    -->
+    <!--<bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter">-->
+        <!--<property name="messageConverters">-->
+            <!--<list >-->
+                <!--<ref bean="mappingJacksonHttpMessageConverter" />-->
+            <!--</list>-->
+        <!--</property>-->
+    <!--</bean>-->
+    <!--<bean id="mappingJacksonHttpMessageConverter" class="org.springframework.http.converter.json.MappingJacksonHttpMessageConverter">-->
+        <!--<property name="supportedMediaTypes">-->
+            <!--<list>-->
+                <!--<value>application/json;charset=UTF-8</value>-->
+                <!--<value>text/html;charset=UTF-8</value>-->
+            <!--</list>-->
+        <!--</property>-->
+    <!--</bean>-->
+</beans>

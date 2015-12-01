@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    EhCache的使用注意点:
+    1.当用Hibernate的方式修改表数据(save,update,delete等等)，这时EhCache会自动把缓存中关于此表的所有缓存全部删除掉(这样能达到同步)。但对于数据经常修改的表来说，可能就失去缓存的意义了(不能减轻数据库压力)；
+    2.在比较少更新表数据的情况下，EhCache一般要使用在比较少执行write操作的表(包括update,insert,delete等)[Hibernate的二级缓存也都是这样]；对并发要求不是很严格的情况下，两台机子中的缓存是不能实时同步的；
+-->
+
+<!--
+    name:指定一个cache的名字，用来识别不同的cache，必须惟一。
+    maxElementsInMemory ： 如maxElementsInMemory="10000" ，内存中存储的对象的个数, 内存管理的缓存元素数量最大限值。
+    maxElementsOnDisk： 如maxElementsOnDisk="10000000" 在硬盘上最大的对象个数, 硬盘管理的缓存元素数量最大限值。默认值为0，就是没有限制。
+    eternal ： 如eternal="false"，表示cache中的对象是否过期，缺省为过期（按照配置中的时间），如果改为true，表示该对象永远不过期。 即cache中的元素将一直保存在内存中，不会因为时间超时而丢失，所以在这个值为true的时候，timeToIdleSeconds和timeToLiveSeconds两个属性的值就不起作用了。
+    overflowToDisk ：  如overflowToDisk="true" 对象在内存中达到最大个数的时候，是否写入硬盘。
+    timeToIdleSeconds ：  如timeToIdleSeconds="3600" 设定元素在过期前空闲状态的时间，只对非持久性缓存对象有效。即多长时间不访问该缓存，那么ehcache就会清除该缓存。默认值为0,值为0意味着元素可以闲置至无限长时间。
+    timeToLiveSeconds：如timeToLiveSeconds="100000" 设定元素从创建到过期的时间。对象存活多少秒过期. 默认值为0,值为0意味着元素可以存活至无限长时间。 意思是从cache中的某个元素从创建到消亡的时间，从创建开始计时，当超过这个时间，这个元素将被从cache中清除。
+    memoryStoreEvictionPolicy：缓存算法，有LRU（默认）、LFU、FIFO
+    diskPersistent：如diskPersistent="false" 是否持久化磁盘缓存，设定在虚拟机重启时是否进行磁盘存储，默认为false。要想把cache真正持久化到磁盘，写程序时必须注意，在是用net.sf.ehcache.Cache的void put (Element element)方法后要使用void flush()方法。
+    diskExpiryThreadIntervalSeconds：如diskExpiryThreadIntervalSeconds=”1000”: 访问磁盘线程活动时间。
+    diskSpoolBufferSizeMB：存入磁盘时的缓冲区大小，默认30MB,每个缓存都有自己的缓冲区。
+    其中必须要填的属性为：maxElementsInMemory   maxElementsOnDisk   eternal   overflowToDisk
+
+    <terracotta/> 这个标签好像用户集群的
+-->
+<ehcache>
+    <diskStore path="java.io.tmpdir" />
+
+    <defaultCache
+            maxElementsInMemory="1024000"
+            eternal="false"
+            timeToIdleSeconds="120"
+            timeToLiveSeconds="120"
+            overflowToDisk="false"
+            memoryStoreEvictionPolicy="LRU">
+    </defaultCache>
+    <cache name="gtCache"
+           maxElementsInMemory="1024000"
+           maxElementsOnDisk="0"
+           eternal="false"
+           timeToIdleSeconds="120"
+           timeToLiveSeconds="120"
+           overflowToDisk="true"
+           memoryStoreEvictionPolicy="LRU">
+    </cache>
+</ehcache>

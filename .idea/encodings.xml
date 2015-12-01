@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Service/src/main/resources/redis.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Service/src/main/resources/redis.windows.conf" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Web/src/main/java/com/guotion/material/web/message/MapMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Web/src/main/java/com/guotion/material/web/util/response/ResponseDataHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Web/src/main/resources/redis.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Web/src/main/resources/redis.windows.conf" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Web/web/jsp/Area.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Web/web/jsp/css/awesomeStyle" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Web/web/jsp/css/demo.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Web/web/jsp/css/metroStyle" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Web/web/jsp/css/zTreeStyle" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Web/web/jsp/js/jquery-1.4.4.min.js" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

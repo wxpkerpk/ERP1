@@ -1,0 +1,104 @@
+2015-11-26 01:40:34 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 01:40:34 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 01:40:34 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 01:40:34 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:00:13 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 02:00:13 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:00:13 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 02:00:13 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:06:31 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 02:06:31 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:06:31 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 02:06:31 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:30:35 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 02:30:35 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:30:35 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 02:30:35 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:35:40 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 02:35:40 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:35:40 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 02:35:40 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:38:23 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 02:38:23 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:38:23 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 02:38:23 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:40:38 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 02:40:38 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:40:38 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 02:40:38 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:42:53 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 02:42:53 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:42:53 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 02:42:53 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:45:09 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 02:45:09 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:45:09 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 02:45:09 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:49:19 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 02:49:19 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:49:19 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 02:49:19 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:49:50 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 02:49:50 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:49:50 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 02:49:50 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:52:32 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 02:52:32 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:52:32 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 02:52:32 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:54:59 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 02:54:59 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:54:59 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 02:54:59 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:55:35 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 02:55:35 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 02:55:35 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 02:55:35 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:02:04 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 03:02:04 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:02:04 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 03:02:04 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:03:52 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 03:03:52 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:03:52 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 03:03:52 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:05:17 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 03:05:17 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:05:17 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 03:05:17 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:06:00 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 03:06:00 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:06:00 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 03:06:00 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:06:28 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 03:06:28 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:06:28 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 03:06:28 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:11:33 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 03:11:33 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:11:33 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 03:11:33 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:12:59 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 03:12:59 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:12:59 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 03:12:59 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:15:25 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 03:15:25 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:15:25 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 03:15:25 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:16:12 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 03:16:12 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:16:12 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 03:16:12 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:19:11 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 03:19:11 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:19:11 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 03:19:11 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:21:07 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 03:21:07 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:21:07 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 03:21:07 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:27:52 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_prov_city_area_t_premises add constraint FK_njo04kbg0hti65093bclwq177 foreign key (t_prov_city_area_areano) references t_prov_city_area (areano)
+2015-11-26 03:27:52 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint
+2015-11-26 03:27:52 ERROR (SchemaUpdate.java:261) | HHH000388: Unsuccessful: alter table t_user add constraint FK_ep5n7cut2tt1c6yqc1us3tmku foreign key (address_areano) references t_prov_city_area (areano)
+2015-11-26 03:27:52 ERROR (SchemaUpdate.java:262) | Cannot add foreign key constraint

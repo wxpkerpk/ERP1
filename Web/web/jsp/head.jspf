@@ -1,0 +1,7 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<%String path = request.getContextPath(); %>
+<link rel="stylesheet" href="<%=path %>/jquery-easyui-1.4.3/themes/icon.css"/>
+<link rel="stylesheet" href="<%=path %>/jquery-easyui-1.4.3/themes/bootstrap/easyui.css"/>
+<script type="text/javascript" src="<%=path %>/jquery-easyui-1.4.3/jquery.min.js"></script>
+<script type="text/javascript" src="<%=path %>/jquery-easyui-1.4.3/jquery.easyui.min.js"></script>
+<script type="text/javascript" src="<%=path %>/jquery-easyui-1.4.3/locale/easyui-lang-zh_CN.js"></script>
